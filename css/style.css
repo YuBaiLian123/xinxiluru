@@ -146,9 +146,11 @@ textarea{
     height:194px;
         }
 .product{
-    width:733px;
+    width:734px;
     height: 110px;
     background: #f2f6fe;
+    left：35px;
+    position:relative;
         }
 .product select{
     margin-top:36px;
