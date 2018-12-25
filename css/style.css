@@ -64,7 +64,7 @@ input:-ms-input-placeholder{  /* Internet Explorer 10-11 */
     margin-left: -80px;
     margin-bottom: 18px;
         }
-item .blueSquare{
+.item .blueSquare{
     display: inline-block;
     width:15px;
     height:30px;
