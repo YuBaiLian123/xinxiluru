@@ -1,2 +1,3 @@
-# Mobile terminal applet
-移动端小程序
+# 信息录入平台
+功能：弹窗 提交数据
+
